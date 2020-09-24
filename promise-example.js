@@ -1,6 +1,6 @@
 // Create a JavaScript Promise
 const myPromise = new Promise((resolve, reject) => {
-    if(condition here) {
+    if(/*condition here */) {
       resolve("Promise was fulfilled");
     } else {
       reject("Promise was rejected");
